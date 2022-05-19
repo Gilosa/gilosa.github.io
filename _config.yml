@@ -1,0 +1,49 @@
+url: https://gilosa.github.io
+baseurl: /
+
+# Site settings
+title: Gilosa
+email: gilosa@gmail.com
+description: "We are Gilosa MB and we are creating softwere and designs."
+
+
+# Team names, titles and social links
+people:
+- name: Osvaldas Bernatavicius
+  pic: 1
+  position: Java developer
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/osvaldas-bernatavicius
+    - title: facebook
+      url: https://www.facebook.com/oosvas
+    - title: github
+      url: https://www.github.com/osber1
+
+
+- name: Rugile Lilyte
+  pic: 2
+  position: Designer
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: linkedin
+      url: #
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: facebook
+    url:
+  - title: github
+    url: http://github.com/gilosa
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: 3481 Melrose Place
+  - line: Vilnius, Lithuania
+
+# Build settings
+markdown: kramdown
+permalink: pretty
