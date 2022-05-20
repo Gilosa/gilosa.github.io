@@ -1,0 +1,8 @@
+version: '3'
+services:
+  jekyll-serve:
+    image: bretfisher/jekyll-serve
+    volumes:
+      - "~/Personal_projects/gilosa.github.io:/site"
+    ports:
+      - 4000:4000
