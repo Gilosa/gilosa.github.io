@@ -25,23 +25,21 @@ people:
   pic: 2
   position: Designer
   social:
-    - title: twitter
-      url: #
+    - title: instagram
+      url: https://www.instagram.com/gile.li
     - title: facebook
-      url: #
+      url: https://www.facebook.com/R.Lilyte
     - title: linkedin
-      url: #
+      url: https://www.linkedin.com/in/rugile-lilyte
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: facebook
-    url:
   - title: github
     url: http://github.com/gilosa
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
+  - line: Jonazoliu 5
   - line: Vilnius, Lithuania
 
 # Build settings
